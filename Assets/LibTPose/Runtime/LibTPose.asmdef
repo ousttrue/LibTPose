@@ -1,0 +1,15 @@
+{
+    "name": "LibTPose",
+    "references": [
+        "GUID:2ef84b520212e174a94668c7a0862d3b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
